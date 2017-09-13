@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Sesion1_Interfaces</string>
+    <string name="registro">Registro</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellido">Apellido:</string>
+    <string name="registrar">Aceptar</string>
+    <string name="info">Informacion</string>
+    <string name="Mail">Correo electrónico:</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="sexo">Sexo:</string>
+    <string name="cine">Cine</string>
+    <string name="dormir">Dormir</string>
+    <string name="bailar">Bailar</string>
+    <string name="comer">Comer</string>
+    <string name="Ciudad">Ciudad de nacimiento:</string>
+    <string name="password2">Repetir contraseña:</string>
+    <string name="password">Contraseña:</string>
+    <string name="fecha">Fecha de nacimiento:</string>
+    <string name="hobbies">Selecciona tus hobbies:</string>
+
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>Itagui</item>
+        <item>Envigado</item>
+        <item>Sabaneta</item>
+    </string-array>
+</resources>
